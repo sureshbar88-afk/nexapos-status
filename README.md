@@ -1,0 +1,2 @@
+# nexapos-status
+NexaPOS status
